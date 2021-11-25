@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartynL - or just Martyn :D <br> I've been a developer for about 5 years now working for a small company where 
-     I've been exposed to pretty much all stages of the software lifecycle. I work mostly with Java, using Spring Framework / Spring Boot, along with SQL and HTML/CSS/Javascipt
-     but I enjoy playing with other languages when I get the chance to. I've built CI/CD pipelines in Azure devops and had some exposure to AWS which I hope to expand on as much as I can.
+     I've been exposed to pretty much all stages of the software lifecycle. I work mostly with Java, using Spring Framework / Spring Boot, along with SQL and a bit of HTML/CSS/Javascipt
+     but I enjoy playing with other languages when I get the chance to i.e C#, Perl etc. I've built CI/CD pipelines in Azure devops and had some exposure to AWS which I hope to expand on as much as I can.
      My goal is to become a Software Architect when I feel I've got enough experience to do so.
 - 👀 I’m interested in programming in all its forms.
 - 🌱 I’m currently learning more about:
